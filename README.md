@@ -21,7 +21,7 @@ Ferramenta	Versão
 ⚡ Como usar
 Clone este repositório:
 
-```git clone https://github.com/lukintosh/scratch2cpp.git```
+```git clone https://github.com/LukeMinivaca85/Scratch2CPP```
 ```cd scratch2cpp```
 Converta seu arquivo .sb3:
 
